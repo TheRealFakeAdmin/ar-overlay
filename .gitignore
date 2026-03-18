@@ -56,3 +56,4 @@ dkms.conf
 
 third_party/
 build/
+data/
