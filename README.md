@@ -7,7 +7,7 @@ Inspired by news helicopters with street overlays, showing road labels and headi
 ## Note
 
 This project is primarily a learning exercise in C. I'm starting from zero experience with the language,
-and am using tutorials, documentation, videos, and AI assistance throughout. All code is written and
+and am using tutorials, documentation, videos, and LLM assistance throughout. All code is written and
 understood by hand; this is a learning project first.
 
 ## Roadmap
