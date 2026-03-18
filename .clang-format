@@ -1,0 +1,10 @@
+BasedOnStyle: LLVM
+ColumnLimit: 0
+IndentWidth: 4
+MaxEmptyLinesToKeep: 1
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterEnum: false
+  AfterStruct: false
+  SplitEmptyFunction: false
+AllowShortFunctionsOnASingleLine: Empty
