@@ -3,6 +3,7 @@ project(ar_overlay C)
 
 set(CMAKE_C_STANDARD 11)
 set(CMAKE_C_STANDARD_REQUIRED ON)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 # Tell raylib not to build its example programs
 set(BUILD_EXAMPLES OFF CACHE BOOL "" FORCE)
